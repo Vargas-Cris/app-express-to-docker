@@ -1,0 +1,22 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristhina Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.4",
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.4",
+    "nodemon": "^2.0.15",
+    "postcss": "^8.4.12",
+    "postcss-cli": "^9.1.0",
+    "pug": "^3.0.2",
+    "tailwindcss": "^3.0.23"
+  }
+}
